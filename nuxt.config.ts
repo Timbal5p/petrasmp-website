@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     head: {
        meta: [
       // <meta name="viewport" content="width=device-width, initial-scale=1">
-      { name: 'PETRA SMP', content: 'width=device-width, initial-scale=1' }
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
      ],
       script: [
       // <script src="https://myawesome-lib.js"></script>
