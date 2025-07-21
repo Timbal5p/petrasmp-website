@@ -11,10 +11,15 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'PETRA SMP',
-      viewport: 'width=device-width, initial-scale=1.0',
-      script: 'src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466155084617223''
-    },
+       meta: [
+      // <meta name="viewport" content="width=device-width, initial-scale=1">
+      { name: 'PETRA SMP', content: 'width=device-width, initial-scale=1' }
+     ],
+      script: [
+      // <script src="https://myawesome-lib.js"></script>
+      { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466155084617223' }
+     ]
+    }
   }
 },
 );
