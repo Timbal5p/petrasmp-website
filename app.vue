@@ -1,0 +1,31 @@
+<template>
+  <div class="bg-[url(/background.jpg)] h-dvh bg-center bg-cover">
+    <div class="backdrop-blur-sm h-dvh box-border place-items-center overflow-x-hidden">
+       <h1 class="display overflow-hidden size-fit text-center font-inter text-clip md:text-8xl lg:text-9xl sm:text-7xl text-7xl bg-linear-to-r from-blue-700  to-blue-900 rounded-xl m-auto h-auto tracking-normal duration-500 hover:tracking-widest">petraSMP</h1>
+      <h3 class="display text-center text-clip font-inter text-lg">the trashiest smp ever</h3>
+      <br/>
+      <h2 class="display text-center text-clip font-inter text-5xl font-bold">Why petraSMP?</h2>
+      <ul class="display text-center text-clip font-inter list-disc list-inside text-xl">
+        <li>the server has plugins like viaversion and more</li>
+        <li>its online 24/7 so you can play anywhere at anytime</li>
+        <li>it has a good amount of ram so that it mostly doesnt lag</li>
+      </ul>
+      <h2 class="display text-center text-clip font-inter text-5xl font-bold">What are the mods i need?</h2>
+      <p class="display text-center text-clip font-inter font-bold text-xl">You dont need mods to join our server. But here is a list of plugins for the server:</p>
+      <ul class="display text-center text-clip font-inter list-disc list-inside text-xl">
+        <li>ViaVersion (with ViaBackwards)</li>
+        <li>WorldEdit</li>
+        <li>Chunky</li>
+        <li>Veinminer</li>
+        <li>and more...</li>
+      </ul>
+      <br/>
+      <h2 class="display text-center text-clip font-inter text-4xl lg:text-6xl md:text-5xl sm:text-4xl font-bold bg-linear-to-l from-lime-200 to-indigo-950 size-fit m-auto p-10 tracking-normal duration-500 rounded-xl hover:p-13 hover:tracking-widest hover:rounded-none">What are you waiting for?</h2>
+      <h3 class="display text-center font-inter text-clip text-3xl">play.petragamingmc.com</h3>
+      <p class="display text-center font-inter">Note: Remember that you need to enter this ip in minecraft, not in a webbrowser</p>
+
+      <p class="display text-center font-inter">If you still have any questions, contact us at mail@petragamingmc.com</p>
+    </div>
+  </div>
+  <NuxtRouteAnnouncer/> 
+</template>
