@@ -21,6 +21,15 @@
       </ul>
       <br/>
       <h2 class="display text-center font-inter text-5xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">Become Supporter</h2>
+      <ul class="display text-center text-clip font-inter list-disc list-inside text-xl bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">
+        <li>try features out before anyone else</li>
+        <li>get access to exclusive content (like behind the scenes)</li>
+        <li>become part of the private community</li>
+      </ul>
+      <h2 class="display text-center font-inter text-4xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">become member now at:</h2>
+      <a href="https://ko-fi.com/petragamingantivirus" class="display text-center font-inter text-4xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">Kofi</a>
+      <a href="https://patreon.com/petragaming" class="display text-center font-inter text-4xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">Patreon</a>
+      <br/>
       <h2 class="display text-center text-clip font-inter text-4xl lg:text-6xl md:text-5xl sm:text-4xl font-bold bg-linear-to-l from-lime-200 to-indigo-950 size-fit m-auto p-10 tracking-normal duration-500 rounded-xl hover:p-13 hover:tracking-widest hover:rounded-none">What are you waiting for?</h2>
       <h3 class="display text-center font-inter text-clip text-3xl">play.petragamingmc.com</h3>
       <p class="display text-center font-inter">Note: Remember that you need to enter this ip in minecraft, not in a webbrowser</p>
