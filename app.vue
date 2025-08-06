@@ -23,8 +23,8 @@
       <h2 class="display text-center text-clip font-inter text-5xl font-bold">What is petraSMP?</h2>
       <p class="display text-center text-clip font-inter font-bold text-xl">petraSMP is a Survival Multiplayer Minecraft Server where people play in survival worlds together. There are also a few plugins to change your experience a bit. For example, ore veins will be destroyed instantly when one block is mined. Or also Voice Chat (mod required) to chat via voice. Also, the server has daily backups so your builds are secure. The list of plugins is above this section, you can look them up if you want. Other than plugins, there are also some settings such as PvP on. And if you want, you can become are supporter to keep this Server online.</p>
       <br/>
-      <img class="block m-auto w-50%" src="/screenshot1.png"/>
-      <img class="block m-auto w-50%" src="/screenshot2.png"/>
+      <img class="block m-auto w-25% h-25%" src="/screenshot1.png"/>
+      <img class="block m-auto w-25% h-25%" src="/screenshot2.png"/>
       <br/>
       <h2 class="display text-center font-inter text-5xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">Become Supporter</h2>
       <ul class="display text-center text-clip font-inter list-disc list-inside text-xl bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200 text-transparent">
