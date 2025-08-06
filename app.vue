@@ -20,6 +20,7 @@
         <li>and more...</li>
       </ul>
       <br/>
+      <h2 class="display text-center text-clip font-inter text-5xl font-bold bg-clip-text bg-linear-to-r from-amber-600 to-yellow-200">Become Supporter</h2>
       <h2 class="display text-center text-clip font-inter text-4xl lg:text-6xl md:text-5xl sm:text-4xl font-bold bg-linear-to-l from-lime-200 to-indigo-950 size-fit m-auto p-10 tracking-normal duration-500 rounded-xl hover:p-13 hover:tracking-widest hover:rounded-none">What are you waiting for?</h2>
       <h3 class="display text-center font-inter text-clip text-3xl">play.petragamingmc.com</h3>
       <p class="display text-center font-inter">Note: Remember that you need to enter this ip in minecraft, not in a webbrowser</p>
